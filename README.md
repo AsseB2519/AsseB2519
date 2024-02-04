@@ -4,10 +4,10 @@
 
 ## About me:
 ### I'm a Master's Degree Student in Informatics Engineering @ University of Minho:
-* :gear: Machine Learning, Data Science, and AI Development
-* :chart_with_upwards_trend: Data Analysis and Visualization
-* :desktop_computer: Model Validation and Maintenance
+* 🤖 AI and Machine Learning 
+* 📊  Data Science
 * :mailbox: How to reach me:
+* 🧠
 
 <p align="center">
 <a href="mailto:afonso.bessa25@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
