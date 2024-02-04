@@ -4,8 +4,9 @@
 
 ## About me:
 ### I'm a Master's Degree Student in Informatics Engineering @ University of Minho:
-* :desktop_computer: Software Development, Validation and Maintenance
-* :scroll: Formal Programming Methods
+* :gear: Machine Learning, Data Science, and AI Development
+* :chart_with_upwards_trend: Data Analysis and Visualization
+* :desktop_computer: Model Validation and Maintenance
 * :mailbox: How to reach me:
 
 <p align="center">
