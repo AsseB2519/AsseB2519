@@ -1,16 +1,16 @@
 <h1>
-  Hey there! I'm André Nunes. 
+  Hey there! I'm Afonso Bessa. 
 </h1>
 
 ## About me:
-### I'm a Master's Degree student in Software Engineering @ University of Minho:
+### I'm a Master's Degree Student in Informatics Engineering @ University of Minho:
 * :desktop_computer: Software Development, Validation and Maintenance
 * :scroll: Formal Programming Methods
 * :mailbox: How to reach me:
 
 <p align="center">
-<a href="mailto:andrebernardonunes99@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-<a href="https://www.linkedin.com/in/andr%C3%A9-nunes-90a338264/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:afonso.bessa25@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/afonsobessa/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
