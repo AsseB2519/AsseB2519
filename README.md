@@ -1,5 +1,5 @@
 <h1>
-  Hey there! I'm Afonso Bessa. 
+  Hey there! I'm Afonso Bessa 👋 
 </h1>
 
 ## About me:
